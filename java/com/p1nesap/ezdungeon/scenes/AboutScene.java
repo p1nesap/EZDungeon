@@ -40,7 +40,11 @@ public class AboutScene extends PixelScene {
                 "with music by Cube_Code. Links:\n\n\n\n";
 
     private static final String LNK = "youtube.com/user/p1nesap \n\n" +
+<<<<<<< HEAD
 
+=======
+            
+>>>>>>> 077df77945f9d0ecff18506a818aa638507bb4d3
             "pixeldungeon.watabou.ru \n\n" +
             "https://github.com/p1nesap/EZDungeon \n\n" +
             "https://soundcloud.com/cube_code";
